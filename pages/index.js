@@ -47,26 +47,4 @@ export async function getStaticProps() {
         revalidate: 1
     };
 }
-
-// export async function getStaticPaths() {
-//     return {
-//         fallback: false,
-//         paths: [
-//             {
-//                 params: {
-//                     meetup: 'm1'
-//                 }
-//             }
-//         ]
-//     }
-// }
-//For serverside code 
-//Run for every request
-// export async function getServerSideProps(context) {
-//     const req = context.req;
-//     const res = context.res;
-//     return {
-//         props :  meetup
-//     }
-// }
 export default HomePage;
