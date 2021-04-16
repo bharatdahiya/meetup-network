@@ -1,3 +1,37 @@
+
+# Meetup Network
+
+1. Meetup Network application is based on NextJS Framework.
+2. It helps user to create meetup and shows all meetups at one place.
+3. It provides understanding fundamentals of NextJS Framework. 
+
+### Technologies Used:
+1. Front-end: HTML5, CSS3, ReactJS, NextJS.
+2. Backend : Node.js
+3. Database : Mongodb
+
+### NextJS Fundamentals covered in Meetup Network:
+1.  Server-side rendering.
+2.  File based routing.
+3.  Dynamic pages routing eg: [name].js. 
+4.  Fullstack capabilities.
+5.  Pre-data fetching: -Static generation  -Server Side rendering
+6.  API creation and execution on file based routing.
+7.  Use of getStaticPaths()
+8.  Implementing Search Engine Optimization(SEO) using Head.
+
+
+### Deployed using Vercel:
+Open this [https://meetup-network-q3osk9j1o-bharatdahiya.vercel.app/] for live experience.
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# User Manual for Next JS project setup
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
