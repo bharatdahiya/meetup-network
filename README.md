@@ -17,7 +17,7 @@
 4.  Fullstack capabilities.
 5.  Pre-data fetching: -Static generation  -Server Side rendering
 6.  API creation and execution on file based routing.
-7.  Use of getStaticPaths()
+7.  Use of getStaticPaths() for dynamic page rending.
 8.  Implementing Search Engine Optimization(SEO) using Head.
 
 
